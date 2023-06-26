@@ -1,0 +1,12 @@
+.idea
+/cmake
+cmake-build-debug
+.idea/workspace.xml
+cmake-build-debug/.ninja_deps
+cmake-build-debug/.ninja_log
+cmake-build-debug/build.ninja
+cmake-build-debug/CMakeFiles/clion-log.txt
+cmake-build-debug/CMakeFiles/project.dir/src/project/project.cpp.obj
+cmake-build-debug/compile_commands.json
+cmake-build-debug/project.exe
+cmake-build-debug/Testing/Temporary/LastTest.log
